@@ -1,1 +1,1 @@
-Layout mudara caso for um celular ou o computador
+Layout Responsivo para Celular e Computador
